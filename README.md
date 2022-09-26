@@ -1,4 +1,4 @@
-# LinkedIn
+# LinkedIn Clone
 
 This application is a Cloning model for the famous social & professional networking platform "LinkedIn"
 
